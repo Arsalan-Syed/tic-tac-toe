@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/arsal/CLionProjects/tic_tac_toe/game.cpp
+game.h
+C:/Users/arsal/CLionProjects/tic_tac_toe/game.h
+
+C:/Users/arsal/CLionProjects/tic_tac_toe/game.h
+grid.h
+C:/Users/arsal/CLionProjects/tic_tac_toe/grid.h
+
+C:/Users/arsal/CLionProjects/tic_tac_toe/grid.h
+iostream
+-
+string
+-
+
